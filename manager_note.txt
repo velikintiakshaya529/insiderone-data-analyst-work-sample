@@ -1,0 +1,12 @@
+To: Data Team Manager
+Subject: July–September 2026 application funnel findings
+
+After removing six exact duplicate application records and standardising work-mode labels, the analysis covers 1,200 unique applications. I retained 15 missing source values as “unknown” rather than guessing their origin, and kept blank reply times as “no reply yet.”
+
+1. Referral was the strongest source overall: 10.74 hires per 100 applications (13 hires from 121 applications), followed by email at 8.12. The leader varies by role: search led Data and Finance, referral led Design and Marketing, college led Operations, and email led Software. Several category/source groups are small, so these rankings are directional.
+
+2. Applicants completing all four steps were shortlisted at 48.39%, versus 9.28% for applicants completing fewer steps—a 39.10-percentage-point difference (about 5.2 times the rate).
+
+3. Paid-role applicants who received a reply heard back in 3.22 days on average (3-day median), versus 7.62 days for unpaid roles (7-day median). No-reply shares were 13.08% and 29.61%, respectively.
+
+Recommendation: next month, test clearer completion guidance in the application flow and monitor completion and shortlist rates. Review unpaid-role response SLAs as a separate operational issue. Treat the paid/unpaid comparison as an association, not proof of causation. The dataset does not specify a common observation cut-off; newer applications may have had less time to receive a reply, and small subgroup counts make source rankings unstable.
